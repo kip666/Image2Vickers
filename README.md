@@ -51,8 +51,8 @@ $$d_{\text{nominal, }\mu\text{m}} = \sqrt{\frac{1.85437 \cdot F_{\text{kgf}}}{HV
 
 1. Clone repository:
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
-   cd <repo-name>
+   git clone https://github.com/kip666/Image2Vickers.git
+   cd Image2Vickers
    ```
 
 2. Install dependencies:
@@ -120,8 +120,8 @@ python capture.py
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
-   cd <repo-name>
+   git clone https://github.com/kip666/Image2Vickers.git
+   cd Image2Vickers
    ```
 
 2. Установите зависимости:
