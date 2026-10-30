@@ -1,0 +1,11 @@
+{
+    "reference_hv": 235.0,
+    "nominal_diagonal_val": 48.65471047148292,
+    "unit": "um",
+    "measured_diagonal_px": 292.4980010986328,
+    "scale_um_per_px": 0.16634202725739702,
+    "scale_px_per_um": 6.011709827562723,
+    "scale_mm_per_px": 0.000166342027257397,
+    "default_load_gf": 300.0,
+    "camera_index": 1
+}

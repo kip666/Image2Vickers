@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environment
+.env
+venv/
+env/
+.venv/
+
+# Captured test frames (assets/ contains repository demos)
+frame_*.jpg
+calibration_latest_measured.jpg
+
+# IDE
+.vscode/
+.idea/
